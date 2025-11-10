@@ -107,4 +107,4 @@ Os dados são armazenados localmente no navegador, permitindo o uso offline.
 
 **Jaime Fernandes**  
 💼 Desenvolvedor Full Stack  
-📧 [Linkedin](https://www.linkedin.com/in/jfan-dev) | [GitHub](https://github.com/jfan-dev)
+📧  | [GitHub](https://github.com/jfan-dev)
