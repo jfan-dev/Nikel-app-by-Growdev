@@ -70,13 +70,13 @@ Os dados são armazenados localmente no navegador, permitindo o uso offline.
 ## 📸 Capturas de Tela (sugestão)
 
 - **Tela de Login e Criação de Conta**
-> ![Tela de Login](public/assets/images/prints/Index.jpg)
-> ![Tela de criação de conta](public/assets/images/prints/Index-form.jpg)
+> ![Tela de Login](assets/images/prints/Index.jpg)
+> ![Tela de criação de conta](assets/images/prints/Index-form.jpg)
 - **Tela Inicial (Entradas/Saídas/Saldo) e adição de movimentações**
-> ![Tela inicial](public/assets/images/prints/home.jpg)
-> ![Tela inicial](public/assets/images/prints/addLançamento.jpg)
+> ![Tela inicial](assets/images/prints/home.jpg)
+> ![Tela inicial](assets/images/prints/addLançamento.jpg)
 - **Histórico Completo de Lançamentos**
-> ![Tela de lançamentos](public/assets/images/prints/transações.jpg)
+> ![Tela de lançamentos](assets/images/prints/transações.jpg)
 
 
 ---
